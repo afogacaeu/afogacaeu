@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[<img width=100% src=[["https://capsule-render.vercel.app/api?type=venon&height=120&color=0:EEFF00,100:a82da8&section=header&reversal=true&textBg=false&rotate=0)"/>]](https://capsule-render.vercel.app/api?type=venom&height=150&color=&color=0:EEFF00,100:a82da8&text=Input%20text)
+[<img width=100% src=[["https://capsule-render.vercel.app/api?type=venon&height=120&color=0:EEFF00,100:a82da8&section=header&reversal=true&textBg=false&rotate=0)"/>]]
+(https://capsule-render.vercel.app/api?type=venom&height=150&color=&color=0:EEFF00,100:a82da8&text=Input%20text)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F851A&center=true&vCenter=true&width=1280&height=120&lines=I'm+Arthur%2C+a+brazilian+student.;Learning+Data+Science.;Working+with+SQL+and+Low-Code+development.)](https://git.io/typing-svg)
 
